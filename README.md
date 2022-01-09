@@ -1,1 +1,3 @@
 # PythonFinancialCalculator
+
+A simple 
